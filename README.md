@@ -1,2 +1,2 @@
-# CovChech
+# CovCheck
 Mobile app
